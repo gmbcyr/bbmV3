@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Bill Budget Manager V3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Titles -->
+    <string name="blur_title">Select Blur Amount</string>
+
+    <!-- Buttons -->
+    <string name="select_image">Select Image</string>
+    <string name="go">Go</string>
+    <string name="see_file">See File</string>
+
+    <!-- Content descriptions -->
+    <string name="description_image">The image to blur and save.</string>
+
+    <!-- Blur levels -->
+    <string name="blur_lv_1">A little blurred</string>
+    <string name="blur_lv_2">More blurred</string>
+    <string name="blur_lv_3">The most blurred</string>
+    <string name="cancel_work">Cancel Work</string>
+
+    <!-- Messages -->
+    <string name="set_permissions_in_settings">Go to Settings -> Apps and Notifications ->
+        WorkManager Demo -> App Permissions and grant access to Storage.</string>
+
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="deeplink">Deep Link</string>
+
+    <!-- Screen strings -->
+    <string name="step_one">Step One</string>
+    <string name="step_two">Step Two</string>
+    <string name="deep_link_instructions">Type your deep link args</string>
+    <string name="settings_fragment_text">Settings Fragment</string>
+    <string name="shopping_fragment_text">Shopping Fragment</string>
+    <string name="navigate_destination_button">Navigate to destination</string>
+    <string name="navigate_action_button">Navigate with action</string>
+    <string name="next_step_button">Navigate next step</string>
+    <string name="finish_button">Finish Flow</string>
+    <string name="send_deep_link_notification_button">Send deep link notification</string>
+</resources>
